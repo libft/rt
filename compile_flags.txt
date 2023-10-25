@@ -1,0 +1,7 @@
+-Wall
+-Wextra
+-Werror
+-std=c99
+-pedantic
+-Iinclude
+-Isrc/include

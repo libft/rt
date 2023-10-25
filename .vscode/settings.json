@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.h": "c",
+    ".clang-format": "yaml",
+  },
+  "clangd.detectExtensionConflicts": false,
+  "C_Cpp.autocomplete": "disabled",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "[c]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
+  },
+  "sonarlint.pathToCompileCommands": "${workspaceFolder}/compile_commands.json",
+}
